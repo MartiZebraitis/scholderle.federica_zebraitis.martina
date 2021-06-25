@@ -30,3 +30,15 @@
 
 /*contenido____________________________________________________*/
 
+[id*="banner"] {  
+	background-repeat: no-repeat;   
+   	background-position: top;   
+   	background-size: cover;
+}
+
+#banner_principal{
+    width: 100%;
+    height: auto;
+    padding: 0px;
+    background-image: url(imagenes/banner_index.jpg);
+}
